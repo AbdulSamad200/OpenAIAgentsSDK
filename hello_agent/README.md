@@ -186,10 +186,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- Open an [issue](https://github.com/yourusername/hello-agent/issues)
-- Check the [documentation](https://github.com/yourusername/hello-agent/wiki)
+- Open an [issue](https://github.com/AbdulSamad200/hello-agent/issues)
+- Check the [documentation](https://github.com/AbdulSamad200/hello-agent/wiki)
 - Contact: your.email@example.com
 
 ---
 
 **Made with ❤️ for the AI community**
+
