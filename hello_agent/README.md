@@ -36,13 +36,13 @@ A sophisticated demonstration of multi-agent AI systems using the OpenAI Agents 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hello-agent.git
+   git clone https://github.com/AbdulSamad200/hello-agent.git
    cd hello-agent
    ```
 
 2. **Install dependencies**
    ```bash
-   pip install -e .
+   uv sync.
    ```
 
 3. **Set up environment variables**
@@ -53,7 +53,7 @@ A sophisticated demonstration of multi-agent AI systems using the OpenAI Agents 
 
 4. **Run the demo**
    ```bash
-   python main.py
+   uv run python main.py
    ```
 
 ## 📖 Usage Examples
@@ -193,4 +193,5 @@ If you have any questions or need help:
 ---
 
 **Made with ❤️ for the AI community**
+
 
