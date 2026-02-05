@@ -4,11 +4,11 @@ from typing import cast
 import chainlit as cl
 from agents import Agent, Runner, AsyncOpenAI, OpenAIChatCompletionsModel
 from agents.run import RunConfig
-
+import os
 # Load the environment variables from the .env file
 load_dotenv()
 
-gemini_api_key = "AIzaSyA3h0ujjJ1SxjBpPMirYubVnEnswLXKNno"
+gemini_api_key = os.getenv("GEMINI_API_KEY")
 
 # Check if the API key is present; if not, raise an error
 if not gemini_api_key:
